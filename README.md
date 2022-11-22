@@ -1,1 +1,1 @@
-# GA-Logistic-Mapping
+![Cobweb plot](logistic-mapping.gif)
